@@ -5,7 +5,6 @@
 <p align="center">
   Full-stack & AI engineer · B.Tech ICE @ NSUT '28 · VP, The Debugging Society<br>
   Backend-leaning: <strong>Node.js, PostgreSQL, Redis, GraphQL</strong>, plus <strong>LLM apps</strong> with LangChain & RAG.<br>
-  Looking for <strong>SDE / backend / AI engineering internships</strong>.
 </p>
 
 <p align="center">
